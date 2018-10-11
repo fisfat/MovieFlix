@@ -13,7 +13,7 @@ A reactJS movie app fetching resources from TMDB API. The live version(developme
 
 ## Getting Started
 ```
-1. git clone https://github.com/fisfat/movieddFlix.git
+1. git clone https://github.com/fisfat/VeegoFlix.git
 2. cd reactflix
 3. npm install
 4. npm start
