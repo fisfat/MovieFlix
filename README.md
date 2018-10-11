@@ -1,6 +1,6 @@
 ## VeegoFlix
 
-A reactJS movie app fetching resources from TMDB API. The live version(development) can be found [here](https://immense-stream-74329.herokuapp.com/)
+A reactJS movie app fetching resources from TMDB API. The live version(development) can be found [here](https://veegoflix.herokuapp.com/)
 
 ## Technical Notes
 1. `Designed using MaterializeCss v1.0.0`
